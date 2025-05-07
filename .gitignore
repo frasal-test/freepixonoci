@@ -18,10 +18,7 @@ build/
 *.egg-info/
 
 # Generated images
-*.png
-*.jpg
-*.jpeg
-*.gif
+images/
 
 # Model files
 F-Lite-model/

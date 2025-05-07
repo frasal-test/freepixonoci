@@ -62,12 +62,14 @@ python generate.py --prompt "Your detailed text prompt here" --output_file outpu
 ```bash
 python generate.py --prompt "A beautiful sunset over mountains with vibrant colors" --output_file sunset.png
 ```
+![Sunset example](sunset.png)
 
 ### Using Negative Prompts
 
 ```bash
 python generate.py --prompt "A professional portrait of a woman" --negative_prompt "blurry, low quality, distorted" --output_file portrait.png
 ```
+![Portrait example](portrait.png)
 
 ### Generating Multiple Images
 
@@ -97,7 +99,7 @@ The tool includes several optimizations:
 
 ## License
 
-[Include license information here]
+See [LICENSE](LICENSE) for the full license details.
 
 ## Acknowledgements
 
