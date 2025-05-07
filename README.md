@@ -102,5 +102,3 @@ The tool includes several optimizations:
 ## Acknowledgements
 
 This project uses the F-Lite model developed by Freepik.
-
-        Too many current requests. Your queue position is 1. Please wait for a while or switch to other models for a smoother experience.
