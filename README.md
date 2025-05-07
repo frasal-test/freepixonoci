@@ -76,13 +76,15 @@ python generate.py --prompt "A professional portrait of a woman" --negative_prom
 ```bash
 python generate.py --prompt "Abstract digital art with geometric shapes" --output_file abstract.png --num_images 3
 ```
+<img src="abstract.png" alt="Abstract 1" width="300" style="margin-right:10px"/><img src="abstract-1.png" alt="Abstract 2" width="300" style="margin-right:10px"/><img src="abstract-2.png" alt="Abstract 3" width="300"/>
 ![Abstract examples](abstract.png) ![Abstract examples](abstract-1.png) ![Abstract examples](abstract-2.png)
 
 ### Custom Dimensions
 
 ```bash
-python generate.py --prompt "A futuristic cityscape at night" --output_file cityscape.png --width 1920 --height 1080
+python generate.py --prompt "A futuristic cityscape at night" --output_file cityscape.png --width 500 --height 500
 ```
+![Cityscape example](cityscape.png)
 
 ## Technical Details
 
