@@ -88,7 +88,7 @@ python generate.py --prompt "A futuristic cityscape at night" --output_file city
 
 
 ## Credits
-This work is based on the F-Lite model as described in the article: F Lite: Freepik & Fal.ai unveil an open-source image model trained on licensed data
+This work is based on the F-Lite model as described in the article: [F Lite: Freepik & Fal.ai unveil an open-source image model trained on licensed data](https://www.freepik.com/blog/f-lite-freepik-and-fal-ai-unveil-open-source-image-model-trained-on-licensed-data/)
 
 Special thanks to Freepik and Fal.ai for developing and open-sourcing this innovative model.
 
