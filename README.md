@@ -85,22 +85,16 @@ python generate.py --prompt "A futuristic cityscape at night" --output_file city
 ```
 ![Cityscape example](cityscape.png)
 
-## Technical Details
 
-Freepix uses the F-Lite pipeline, which is built on:
 
-- DiT (Diffusion Transformer) architecture
-- T5 text encoder for processing prompts
-- VAE (Variational Autoencoder) for image decoding
-- Classifier-free guidance for high-quality generation
+## Credits
+This work is based on the F-Lite model as described in the article: F Lite: Freepik & Fal.ai unveil an open-source image model trained on licensed data
 
-The tool includes several optimizations:
-- VAE slicing and tiling for memory efficiency
-- Optional CPU offloading for larger models
-- Automatic device selection based on available hardware
+Special thanks to Freepik and Fal.ai for developing and open-sourcing this innovative model.
 
 ## License
 
+Please refer to the original F-Lite model license for usage terms and conditions.
 See [LICENSE](LICENSE) for the full license details.
 
 ## Acknowledgements
