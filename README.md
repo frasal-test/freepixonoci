@@ -76,6 +76,7 @@ python generate.py --prompt "A professional portrait of a woman" --negative_prom
 ```bash
 python generate.py --prompt "Abstract digital art with geometric shapes" --output_file abstract.png --num_images 3
 ```
+![Abstract examples](abstract.png) ![Abstract examples](abstract-1.png) ![Abstract examples](abstract-2.png)
 
 ### Custom Dimensions
 
