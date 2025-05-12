@@ -2,9 +2,9 @@
 
 
           
-# Freepix
+# FreepixOnOCI
 
-Freepix is a Python tool for generating high-quality images using the F-Lite text-to-image diffusion model from Freepik. This tool provides a simple command-line interface for creating images from text prompts with various customization options.
+FreepixOnOCI is a Python tool for generating high-quality images using the F-Lite text-to-image diffusion model from Freepik. This tool provides a simple command-line interface for creating images from text prompts with various customization options.
 
 ## Features
 
